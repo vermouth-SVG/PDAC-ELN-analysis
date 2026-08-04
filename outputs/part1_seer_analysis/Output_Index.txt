@@ -1,0 +1,64 @@
+Curated manuscript outputs
+
+Figures:
+- Figure_1_SEER_ELN_Overview.png
+- Figure_2_SEER_ELN_Modeling.png
+- Figure_3_SEER_POS_Analysis.png
+- Supplementary_Figure_S1_SEER_Model_Performance.png
+- Supplementary_Figure_S2_SEER_ELN_By_Stage.png
+- Supplementary_Figure_S3_SEER_RMST_OW.png
+
+Workbook:
+- Part1_SEER_Tables.xlsx
+
+Workbook sheets:
+- Summary
+- Descriptive_Stats
+- Baseline
+- ELN_Bins_Overall
+- ELN_Bins_Stage
+- ELN_Bins_Surgery
+- ELN_Exact_Curve
+- ELN_Threshold
+- ELN_Changepoint
+- ELN_Cox
+- ELN_PH
+- ELN_Cindex
+- ELN_Strategy_RMST
+- ELN_Strategy_RMST_AllMethods
+- ELN_Balance
+- ELN_Spline_Curve
+- ELN_Calib_12m
+- ELN_Calib_36m
+- ELN_Calib_60m
+- ELN_DCA_12m
+- ELN_DCA_36m
+- ELN_DCA_60m
+- POS_Cox
+- POS_PH
+- POS_Transition
+- POS_Curve
+- POS_RMST
+
+Summary:
+{
+  "raw_n": 5195,
+  "removed_pos_gt_eln": 0,
+  "analysis_n": 5107,
+  "event_n": 3630,
+  "censored_n": 1477,
+  "stage_unknown_n": 1875,
+  "best_threshold": 12,
+  "changepoint_cut": 21,
+  "changepoint_ci": [
+    6.0,
+    35.0
+  ],
+  "bootstrap_cindex_mean": 0.659323683419712,
+  "bootstrap_cindex_ci": [
+    0.6503175536234006,
+    0.6686574318501387
+  ],
+  "preferred_rmst_weighting": "OW",
+  "quick_mode": false
+}

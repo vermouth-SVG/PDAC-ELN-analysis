@@ -1,0 +1,9 @@
+Part 2 methodological notes
+
+1. Family-level synthesis first combines harmonized mean and SD across cohorts and only then derives threshold attainment.
+2. Threshold probabilities remain summary-data approximations, not patient-level reconstructions.
+3. Point-only cohorts remain descriptive counterexamples and do not enter family distribution combination.
+4. Posterior / artery-first spectrum shows quantitative trend support, but it is not formally compared because the estimable evidence base remains too sparse.
+5. Figure 7 caption should retain that posterior spectrum is low-certainty and not formally pairwise tested, even though that statement is no longer printed inside the plotting area.
+6. Figure 5 main text version now shows family overview plus representative references; the full evidence structure remains in tables/workbook.
+7. RAMPS is split into open/comparative and minimally invasive subgroups in the supporting workbook to expose heterogeneity.

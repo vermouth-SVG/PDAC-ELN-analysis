@@ -1,0 +1,16 @@
+Part 2 Submission Asset Guide
+
+Recommended Main-Text Figures:
+- Figure_4_Approach_ELN_Landscape
+- Figure_5_Station_Accessibility
+- Figure_6_RAMPS_MultiStudy_Forest
+- Figure_7_Threshold_Evidence_Map
+
+Recommended Supplementary Figures:
+- Supplementary_Figure_S4_Approach_Profile
+- Supplementary_Figure_S5_Anchor_Attainment_Matrix
+
+Recommended Main-Text Tables:
+- Table3_Approach_Comparison
+- Table4_Anatomical_Access
+- Table5_Anchor_Attainment

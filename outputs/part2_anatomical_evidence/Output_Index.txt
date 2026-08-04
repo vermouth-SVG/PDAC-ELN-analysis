@@ -1,0 +1,26 @@
+Part 2 Output Index
+
+Main figures:
+- Figure_4_Approach_ELN_Landscape: published cohort ELN landscape with Part 1 anchor lines.
+- Figure_5_Station_Accessibility: family overview plus representative PubMed references for anatomical access.
+- Figure_6_RAMPS_MultiStudy_Forest: family-level threshold probabilities after first combining mean/SD within each family.
+- Figure_7_Threshold_Evidence_Map: family distributions positioned against Part 1 anchor thresholds; posterior spectrum remains low-certainty and is not formally pairwise tested.
+
+Supplementary figures:
+- Supplementary_Figure_S4_Approach_Profile: objective heterogeneity audit of route evidence.
+- Supplementary_Figure_S5_Anchor_Attainment_Matrix: anchor-attainment matrix linked to Part 1 ΔRMST.
+
+Main tables:
+- Table3_Approach_Comparison: harmonized cohort summaries and threshold probabilities.
+- Table4_Anatomical_Access: station access, evidence counts, and location cautions.
+- Table5_Anchor_Attainment: combined family mean/SD, threshold probabilities, RR vs standard, and Part 1 anchor association.
+
+Key anchors imported from Part 1:
+- ELN=12 delta RMST at 60 months: 2.59 months
+- ELN≈14 delta RMST at 60 months: 2.31 months
+- ELN=21 delta RMST at 60 months: 2.60 months
+
+Current family-level ELN>=21 estimates from combined family distributions:
+- Standard / conventional DP: mean±SD=13.1±7.6, P(ELN>=21)=16.5% (13.2-19.8), recommendation=Baseline reference
+- RAMPS: mean±SD=18.0±9.7, P(ELN>=21)=40.0% (35.0-45.0), recommendation=Preferred escalation
+- Posterior / artery-first spectrum: mean±SD=32.5±12.7, P(ELN>=21)=82.7% (58.0-100.0), recommendation=Trend-supported, low-certainty
